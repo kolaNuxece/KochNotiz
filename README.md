@@ -34,4 +34,4 @@ Through this project, I am gaining practical experience with Android development
 
 
 
-![image alt](![image alt](https://github.com/kolaNuxece/KochNotiz/blob/master/recipe-list.png?raw=true)
+(![image alt](https://github.com/kolaNuxece/KochNotiz/blob/master/recipe-list.png?raw=true)

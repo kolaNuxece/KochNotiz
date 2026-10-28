@@ -27,3 +27,6 @@ KochNotiz is a personal learning project that I continue to develop and improve.
 ## What I Am Learning
 
 Through this project, I am gaining practical experience with Android development, database integration, data persistence, and application structure.
+
+
+![image alt](https://github.com/kolaNuxece/KochNotiz/blob/master/recipe-list.png?raw=true)

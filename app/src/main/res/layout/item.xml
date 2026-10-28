@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:padding="12dp"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#f0f0f0"
+    android:layout_marginBottom="8dp">
+    <TextView
+        android:id="@+id/textViewName"
+        android:textStyle="bold"
+        android:textSize="18sp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Gerichtname" />
+
+    <TextView
+        android:id="@+id/textViewIngredients"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Zutaten" />
+
+    <TextView
+        android:id="@+id/textViewNote"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Notiz" />
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="end"
+        android:layout_marginTop="8dp">
+
+        <Button
+            android:id="@+id/buttonCookAgain"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Erneut kochen" />
+
+        <Button
+            android:id="@+id/buttonDelete"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Löschen"
+            android:layout_marginStart="8dp" />
+    </LinearLayout>
+</LinearLayout>
